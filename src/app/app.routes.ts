@@ -6,7 +6,7 @@ export const routes: Routes = [
   {
     path: '',
     component: IndexComponent,
-    title: 'Simplgrocr',
+    title: 'Kinmapper',
   },
   {
     path: 'kinmap',
